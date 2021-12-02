@@ -13,6 +13,7 @@ public class Test {
 		System.out.println("파일 보냄");
 		System.out.println("귀요미");
 		System.out.println("솔크");
+		System.out.println("건포도 감사합니다...");
 	}
 
 }
