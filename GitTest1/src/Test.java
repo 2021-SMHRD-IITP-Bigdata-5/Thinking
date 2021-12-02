@@ -17,6 +17,7 @@ public class Test {
 		System.out.println("연습1");
 		System.out.println("홍일언니 안녕~!");
 		System.out.println("연습2");
+		System.out.println("연습2-1");
 	}
 
 }
