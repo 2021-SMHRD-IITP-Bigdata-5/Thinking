@@ -14,16 +14,9 @@ public class Test {
 		System.out.println("귀요미");
 		System.out.println("솔크");
 		System.out.println("건포도 감사합니다...");
-<<<<<<< HEAD
-=======
-
->>>>>>> branch 'master' of https://github.com/2021-SMHRD-IITP-Bigdata-5/Thinking.git
 		System.out.println("연습1");
-<<<<<<< HEAD
-=======
-
->>>>>>> branch 'master' of https://github.com/2021-SMHRD-IITP-Bigdata-5/Thinking.git
 		System.out.println("홍일언니 안녕~!");
+		System.out.println("연습2");
 	}
 
 }
