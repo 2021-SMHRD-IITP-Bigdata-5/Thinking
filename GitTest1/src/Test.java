@@ -10,7 +10,7 @@ public class Test {
 		// 4. 이야야야야야야야
 
 		System.out.println("first");
-		System.out.println("���� ���긮��");
+		System.out.println("귀요미");
 	}
 
 }
