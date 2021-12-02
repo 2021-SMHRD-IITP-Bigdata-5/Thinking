@@ -10,6 +10,8 @@ public class Test {
 		// 4. 이야야야야야야야
 
 		System.out.println("first");
+		
+		System.out.println("파일 보냄");
 	}
 
 }
